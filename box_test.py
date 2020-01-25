@@ -11,7 +11,7 @@ for i in range(1,len(names)-58,1):
         bounding_list=[]
         print(names[i])
         img = cv2.imread(names[i])
-        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+        #gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         #gray = cv2.bilateralFilter(gray, 11, 17, 17)
         '''
         kernel = np.ones((1,1),np.uint8)
@@ -41,7 +41,7 @@ for i in range(1,len(names)-58,1):
                             if key == ord('q') or key == 27:
                             	cv2.destroyAllWindows()
                                 '''
-            datafile.write('\n')            
+            datafile.write('\n')
 datafile.close()
 '''
                             bound_list=[y,x,y+h,x+w]
