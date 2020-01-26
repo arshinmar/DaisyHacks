@@ -38,7 +38,7 @@ This was done using the Pandas library, which allowed for easy writing with the 
 
 ### What Did We Learn From This Project?
 
-We learned how state-of-the-art APIs from Google and other can be used under the correct circumstances to perform certain jobs. 
+We learned how state-of-the-art APIs from Google and other companies can be used under the correct circumstances to perform certain jobs. 
 
 Furthermore, we learned how to use image processing through libraries such as OpenCV to highlight certain features such as edges and contours. 
 
