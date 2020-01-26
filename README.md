@@ -42,7 +42,7 @@ We learned how state-of-the-art APIs from Google and other companies can be used
 
 Furthermore, we learned how to use image processing through libraries such as OpenCV to highlight certain features such as edges and contours. 
 
-Other libraries that we gained further understanding of included ## OS,argparse,pandas, etc.
+Other libraries that we gained further understanding of included OS,argparse,pandas, etc.
 
 ## Questions?
 
