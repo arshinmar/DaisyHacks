@@ -1,0 +1,72 @@
+flyer_name,product_name,unit_promo_price,uom,least_unit_for_promo,save_per_unit,discount,organic
+week_7_page_3,"Chardonnay, Cabernet, or Sauvignon Blanc",8.99,lb,1,3.0,0.25020850708924103,0
+week_7_page_3,Super Pro Purified Water,2.47,,2,49.0,0.9520108801243443,0
+week_7_page_3,Salsa and Guacamole,3.0,oz,2,0.79,0.20844327176781002,0
+week_12_page_1,Organic Red & Green Seedless Grapes,1.5,,2,1.0,0.4,0
+week_12_page_1,"Chardonnay, Cabernet, or Sauvignon Blanc",9.99,lb,1,5.0,0.333555703802535,0
+week_12_page_1,Blackened Chicken Salad,7.99,lb,1,2.0,0.20020020020020018,0
+week_12_page_1,Organic Zesty Carrot Juice,3.99,lb,1,3.0,0.4291845493562232,0
+week_12_page_1,Sockeye Salmon Fillets,11.99,lb,1,8.0,0.400200100050025,0
+week_12_page_1,Ground Sirloin or Round,3.99,lb,1,4.0,0.5006257822277848,0
+week_25_page_1,Organic Red & Green Seedless Grapes,1.99,lb,1,50.0,0.9617234083477592,0
+week_25_page_1,Organic Zesty Carrot Juice,1.99,lb,1,2.0,0.5012531328320802,0
+week_34_page_3,"Chardonnay, Cabernet, or Sauvignon Blanc",5.99,,1,1.0,0.14306151645207438,0
+week_34_page_3,All Organic Juices & Smoothies,4.99,oz,1,2.0,0.28612303290414876,0
+week_34_page_3,Energy Seed Salad,3.99,oz,1,1.0,0.2004008016032064,0
+week_34_page_3,Hamburger & Hot Dog Buns,6.99,lb,1,2.0,0.22246941045606228,0
+week_34_page_3,5-Pack Cookie Sandwiches,4.99,oz,1,1.0,0.1669449081803005,1
+week_47_page_1,Flank Steak,6.99,oz,1,2.0,0.22246941045606228,0
+week_47_page_1,Boneless Ribeye Steaks ,7.99,oz,1,2.0,0.20020020020020018,0
+week_47_page_1,Free Range Large Brown Eggs,3.69,,1,2.3,0.3839732888146911,0
+week_34_page_2,Sharp Cheddar Cheese,7.99,lb,1,2.0,0.20020020020020018,0
+week_34_page_2,Asparagus with Parmesan Vinaigrette,3.5,oz,2,0.99,0.22048997772828507,0
+week_34_page_2,Organic Zesty Carrot Juice,0.45,oz,5,0.25,0.35714285714285715,1
+week_34_page_2,Garden Herb & Old Fashioned Potato Salad,3.0,oz,2,0.79,0.20844327176781002,0
+week_34_page_2,Organic Red & Green Seedless Grapes,3.99,,1,1.4,0.2597402597402597,0
+week_7_page_2,Salsa and Guacamole,7.49,oz,1,2.0,0.2107481559536354,0
+week_7_page_2,Organic Red & Green Seedless Grapes,19.39,lb,1,2.0,0.09350163627863488,0
+week_7_page_2,Hamburger & Hot Dog Buns,4.99,lb,1,1.0,0.1669449081803005,0
+week_39_page_1,Sockeye Salmon Fillets,9.99,lb,1,5.0,0.333555703802535,0
+week_39_page_1,Organic Red & Green Seedless Grapes,0.99,lb,1,1.5,0.6024096385542168,0
+week_28_page_3,4-Pack Muffins,4.99,,1,2.0,0.28612303290414876,0
+week_28_page_3,5-Pack Large Cookies,4.99,,1,1.0,0.1669449081803005,0
+week_28_page_3,Hamburger & Hot Dog Buns,3.99,oz,1,50.0,0.9260974254491572,0
+week_9_page_2,Jersey Fresh Chese,12.5,oz,2,1.99,0.137336093857833,0
+week_9_page_2,All Day Session IPA,3.99,oz,1,1.5,0.27322404371584696,0
+week_9_page_2,NY Strips,3.0,oz,2,1.99,0.3987975951903807,0
+week_9_page_2,Organic Zesty Carrot Juice,3.0,oz,2,0.69,0.18699186991869918,0
+week_50_page_4,All Day Session IPA,6.99,oz,1,2.0,0.22246941045606228,0
+week_50_page_4,Wild Bourbon Salmon Fillets,10.99,lb,1,2.0,0.15396458814472672,0
+week_50_page_4,Blackened Chicken Salad,3.99,lb,1,3.0,0.4291845493562232,0
+week_50_page_4,"Chardonnay, Cabernet, or Sauvignon Blanc",12.99,lb,1,1.0,0.07147962830593281,0
+week_1_page_4,Organic Red & Green Seedless Grapes,8.99,,1,2.0,0.18198362147406733,0
+week_1_page_4,Mixed Fruit Tub,3.49,lb,1,50.0,0.9347541596560104,0
+week_1_page_4,Organic Zesty Carrot Juice,3.5,,2,49.0,0.9333333333333333,0
+week_1_page_4,Super Lump Crab Cakes,4.0,oz,3,0.9900000000000001,0.19839679358717435,0
+week_32_page_4,"Pinot Grigio, Rose, or Sparkling Wine",11.99,,1,3.0,0.200133422281521,0
+week_32_page_4,Hass Avocados,1.25,,4,24.0,0.9504950495049505,0
+week_32_page_4,Organic Zesty Carrot Juice,1.99,lb,1,1.0,0.33444816053511706,0
+week_32_page_4,"Pinot Grigio, Rose, or Sparkling Wine",0.99,lb,1,4.0,0.8016032064128256,0
+week_32_page_4,"Chardonnay, Cabernet, or Sauvignon Blanc",12.99,lb,1,4.0,0.2354326074161271,0
+week_32_page_4,Whole Chicken,3.5,pt,2,49.0,0.9333333333333333,0
+week_44_page_3,Energy Seed Salad,3.99,oz,1,1.0,0.2004008016032064,0
+week_44_page_3,Hamburger & Hot Dog Buns,2.0,,2,0.5,0.2,0
+week_4_page_1,Organic Zesty Carrot Juice,1.99,lb,1,2.0,0.5012531328320802,0
+week_4_page_1,Pollinator Friendly Almond Butter,7.99,lb,1,1.0,0.11123470522803114,0
+week_4_page_1,Organic Red & Green Seedless Grapes,3.99,,1,2.0,0.333889816360601,0
+week_4_page_1,"Chardonnay, Cabernet, or Sauvignon Blanc",3.99,lb,1,4.0,0.5006257822277848,0
+week_11_page_3,Organic Zesty Carrot Juice,1.0,oz,5,0.39,0.2805755395683453,0
+week_11_page_3,All Day Session IPA,4.99,oz,1,50.0,0.9092562284051645,0
+week_11_page_3,Organic Zesty Carrot Juice,2.5,oz,2,0.89,0.26253687315634217,0
+week_11_page_3,All Organic Juices & Smoothies,3.99,oz,1,1.0,0.2004008016032064,0
+week_11_page_3,Asparagus with Parmesan Vinaigrette,7.99,oz,1,2.0,0.20020020020020018,0
+week_11_page_3,Asparagus with Parmesan Vinaigrette,4.49,lb,1,50.0,0.9175995595522114,0
+week_11_page_3,Organic Zesty Carrot Juice,4.49,lb,1,50.0,0.9175995595522114,0
+week_26_page_3,Original Chicken Salad,3.0,,2,0.99,0.24812030075187969,0
+week_26_page_3,Craft Beer,2.99,oz,1,1.0,0.2506265664160401,0
+week_37_page_1,Asparagus with Parmesan Vinaigrette,1.99,lb,1,3.0,0.6012024048096192,0
+week_37_page_1,Blackened Chicken Salad,6.99,lb,1,4.0,0.36396724294813465,0
+week_26_page_2,Organic Red & Green Seedless Grapes,3.49,,1,50.0,0.9347541596560104,0
+week_26_page_2,Salsa and Guacamole,2.5,oz,2,1.49,0.37343358395989973,0
+week_26_page_2,Wensleydale with Blueberries,2.47,oz,2,1.49,0.37626262626262624,0
+week_11_page_2,Organic Red & Green Seedless Grapes,11.99,,1,4.0,0.2501563477173233,0
