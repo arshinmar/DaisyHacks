@@ -12,7 +12,7 @@ for i in range(1,len(names)-58,1):
         print(names[i])
         img = cv2.imread(names[i])
         #gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        #gray = cv2.bilateralFilter(gray, 11, 17, 17)
+        gray = cv2.bilateralFilter(gray, 11, 17, 17)
         '''
         kernel = np.ones((1,1),np.uint8)
         erosion = cv2.erode(gray,kernel,iterations = 4)
@@ -26,7 +26,8 @@ for i in range(1,len(names)-58,1):
         ret,thresh = cv2.threshold(blurred,0,255,cv2.THRESH_BINARY)
         contours,h = cv2.findContours(thresh,cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
 
-        if len(contours) != 0:
+
+        '''if len(contours) != 0:
             # Draw only the contour with the largest area
             for cnt in contours:
             	approx = cv2.approxPolyDP(cnt,0.07*cv2.arcLength(cnt,True),True)
@@ -35,14 +36,14 @@ for i in range(1,len(names)-58,1):
                             x,y,w,h = cv2.boundingRect(cnt)
                             datafile.write(str(x)+','+str(y)+','+str(x+w)+','+str(y+h)+"|")
                             #img = cv2.rectangle(img,(x,y),(x+w,y+h),(0,255,0),5)
-                            '''
-                            cv2.imshow("output", img)
+
+                            cv2.imshow("output", thresh)
                             key =cv2.waitKey(0)
                             if key == ord('q') or key == 27:
                             	cv2.destroyAllWindows()
-                                '''
+
             datafile.write('\n')
-datafile.close()
+datafile.close()'''
 '''
                             bound_list=[y,x,y+h,x+w]
                             bounding_list+=[bound_list]
